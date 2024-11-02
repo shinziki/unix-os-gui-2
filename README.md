@@ -7,3 +7,5 @@
 - Installing dependencies for adding GUI on Debian
 ## Day 5: Installed GUI Interface
 - Installing GUI Desktop using Xfce Desktop
+## Day 6: Added essential utilities
+- Installing application like Firefox
