@@ -9,3 +9,5 @@
 - Installing GUI Desktop using Xfce Desktop
 ## Day 6: Added essential utilities
 - Installing application like Firefox
+## Day 7: Added System and Monitoring Utilities
+- Installing system utilities and Monitoring tools such as htop, lsof, ncdu, rsync, net-tools, and traceroute
